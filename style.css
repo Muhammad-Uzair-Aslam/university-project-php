@@ -189,7 +189,7 @@ nav .fa {
     width: 80%;
     margin: auto;
     text-align: center;
-    padding-top: 100px;
+    /* padding-top: 100px; */
     
 }
 
@@ -200,7 +200,7 @@ nav .fa {
 }
 
 .verticalLine {
-    widtH: 2px;
+    width: 2px;
     height: 100px;
     background: #24f8c7;
     margin: 0 auto 40px;
@@ -279,7 +279,7 @@ p {
     width: 80%;
     margin: auto;
     text-align: center;
-    padding-top: 50px;
+    
 }
 
 .campus-col {
@@ -338,7 +338,7 @@ p {
     width: 80%;
     margin: auto;
     text-align: center;
-    padding-top: 100px;
+    /* padding-top: 100px; */
 }
 
 .facilities-col {
@@ -375,7 +375,7 @@ p {
 .testimonials {
     margin: auto;
     width: 80%;
-    padding-top: 100px;
+    /* padding-top: 100px; */
     text-align: center;
 }
 
@@ -423,7 +423,7 @@ p {
 /* Call To Action Section Start */
 
 .cta {
-    margin: 100px auto;
+    margin: 20px auto;
     width: 80%;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)), url(img/img.jpeg);
     background-size: cover;
@@ -520,7 +520,7 @@ hr {
 .about-us {
     width: 80%;
     margin: auto;
-    padding-top: 80px;
+    /* padding-top: 80px; */
     padding-bottom: 50px;
 }
 
